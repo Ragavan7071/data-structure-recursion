@@ -1,6 +1,6 @@
 # data-structure-recursion
 # c++ program
-to Write a function with one positive integer parameter called n. The function will
+To Write a function with one positive integer parameter called n. The function will
 write 2^n-1 integers (where ^ is the exponentiation operation). Here are the
 patterns of output for various values of n:
 n=1: Output is: 1
